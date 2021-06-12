@@ -1,0 +1,72 @@
+[
+   {
+      "brand": "Mercedes",
+      "productionYear": "2020",
+      "fuelType": "Diesel",
+      "colour": "Dark Black",
+      "numberOfSeats": 5
+   },
+   {
+      "brand": "BMW",
+      "productionYear": "2019",
+      "fuelType": "Petrol",
+      "colour": "Dark Blue",
+      "numberOfSeats": 5
+   },
+   {
+      "brand": "Audi",
+      "productionYear": "2020",
+      "fuelType": "Diesel",
+      "colour": "Silver",
+      "numberOfSeats": 4
+   },
+   {
+      "brand": "Lamoborgini",
+      "productionYear": "2016",
+      "fuelType": "Diesel",
+      "colour": "Yellow",
+      "numberOfSeats": 2
+   },
+   {
+      "brand": "Ferrari",
+      "productionYear": "2019",
+      "fuelType": "Petrol",
+      "colour": "Red",
+      "numberOfSeats": 2
+   },
+   {
+      "brand": "Masarati",
+      "productionYear": "2010",
+      "fuelType": "Diesel",
+      "colour": "Silver",
+      "numberOfSeats": 2
+   },
+   {
+      "brand": "Porsche",
+      "productionYear": "2019",
+      "fuelType": "Petrol",
+      "colour": "Black",
+      "numberOfSeats": 5
+   },
+   {
+      "brand": "Jaguar",
+      "productionYear": "2019",
+      "fuelType": "Diesel",
+      "colour": "Black",
+      "numberOfSeats": 5
+   },
+   {
+      "brand": "Land Rover",
+      "productionYear": "2020",
+      "fuelType": "Diesel",
+      "colour": "Gold",
+      "numberOfSeats": 8
+   },
+   {
+      "brand": "Mercedes",
+      "productionYear": "2016",
+      "fuelType": "Petrol",
+      "colour": "Silver",
+      "numberOfSeats": 5
+   }
+]
